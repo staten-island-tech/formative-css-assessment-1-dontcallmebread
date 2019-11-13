@@ -1,0 +1,15 @@
+div{
+    font-size: 36px;
+    text-transform: uppercase;
+    text-align: center;
+    background-image: /* linear-gradient( 
+        to bottom right,
+        rgba(#757575)
+        rgba(#607D8B)
+        ); */
+        url(media/bed.jpg);
+        background-size: cover;
+        background-position: center;
+        height: 100vh;
+       
+}
