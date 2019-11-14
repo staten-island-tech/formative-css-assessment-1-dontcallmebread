@@ -2,14 +2,22 @@ div{
     font-size: 36px;
     text-transform: uppercase;
     text-align: center;
-    background-image: /* linear-gradient( 
-        to bottom right,
-        rgba(#757575)
-        rgba(#607D8B)
-        ); */
+    font-family: 'Zilla Slab', serif;
+    letter-spacing: 4px;
+    line-height: 3;
+    font-weight: 700;
+    background-image: 
         url(media/bed.jpg);
         background-size: cover;
         background-position: center;
-        height: 100vh;
-       
+        back 
+    
+}
+
+h1{
+    font-family: 'Rajdhani', sans-serif;
+}
+
+li{
+    height: 100px;
 }
