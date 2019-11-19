@@ -1,6 +1,7 @@
 body{
+    background-color: purple;
     padding: 0;
-    margin: 0;
+    margin: 10, 20;
     box-sizing: border-box;
 }
 
@@ -13,9 +14,21 @@ body{
     position: relative;
 }
 
-.header-text{
+/* .header-text{
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 50px;
     position: absolute;
-    top: 50%;
+    top: 30%;
     left: 50%;
-    transform: translate(-50%, -50%);
+} */
+
+center-image{
+    position: relative;
+    background-color: white;
+    height: 50vh;
+    width: 100vw;
+    margin: 0 auto;
+
 }
