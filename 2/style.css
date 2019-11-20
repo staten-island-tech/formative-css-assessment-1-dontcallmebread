@@ -1,0 +1,46 @@
+html{
+    font-size: 50%;
+    padding: 0%;
+    margin: 10 20;
+    box-sizing: border-box;
+}
+
+.header{
+    background-color: blueviolet;
+    padding: 20rem;
+    margin: 1rem auto;
+    height: 99%;
+    width: 95%;
+    position: relative;
+}
+
+.image-box{
+    position: relative;
+    background-color: white;
+    height: 30%;
+    width: 50%;
+    margin: 0 auto;
+}
+
+#center{
+    position: absolute;
+    transform: translate(88%, 28%);
+    width: 35%;
+    height: auto;
+}
+
+#text{
+    position: absolute;
+    text-align: center;
+    font-size: 10rem;
+    color: blueviolet;
+    font-family: 'Dancing Script', cursive;
+    text-transform: uppercase;
+    left: 33%;
+}
+
+.z-index{
+    position: relative;
+    background-color: white;
+    height: ;
+}
