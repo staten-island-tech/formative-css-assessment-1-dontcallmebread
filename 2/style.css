@@ -87,7 +87,43 @@ html{
 
 #title{
     position: absolute;
-    color: #c56cf0;
-    font-size: 10rem;
+    color: white;
+    font-size: 15rem;
+    margin-left: 18%;
+    margin-top: 65%;
+    z-index: 2;
+    text-decoration: none;
+}
+
+#snow{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: 1;
+}
+
+#logo{
+    position: absolute;
+    height: 20rem;
+    width: auto;
+    margin-top: 40%;
+    margin-left: 85%;
+    z-index: 3;
+}
+
+#title2{
+    position: absolute;
+    color: white;
+    font-size: 15rem;
     margin-left: 27%;
+    margin-top: 65%;
+    z-index: 2;
+    text-decoration: none;
+}
+
+#paw{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    z-index: 1;
 }
