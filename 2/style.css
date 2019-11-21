@@ -127,3 +127,35 @@ html{
     width: 100%;
     z-index: 1;
 }
+
+#one{
+    position: absolute;
+    height: 50rem;
+    width: auto;
+    margin-top: 1.5rem;
+    margin-left: 1.5rem;
+}
+
+#two{
+    position: absolute;
+    height: 50rem;
+    width: auto;
+    margin-top: 1.5rem;
+    margin-left: 98.25%;
+}
+
+#three{
+    position: absolute;
+    height: 50rem;
+    width: auto;
+    margin-top: 48.5%;
+    margin-left: 1.5rem;
+}
+
+#four{
+    position: absolute;
+    height: 50rem;
+    width: auto;
+    margin-top: 48.5%;
+    margin-left: 98.25%;
+}
