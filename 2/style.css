@@ -19,14 +19,19 @@ html{
     background-color: white;
     height: 30%;
     width: 50%;
-    margin: 0 auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10rem;
 }
 
 #center{
     position: absolute;
-    transform: translate(88%, 28%);
     width: 35%;
     height: auto;
+    margin-top: 20rem;
+    margin-left: 117rem;
+    margin-right: 50%;
+
 }
 
 #text{
@@ -39,8 +44,39 @@ html{
     left: 33%;
 }
 
-.z-index{
+.center-box{
     position: relative;
-    background-color: white;
-    height: ;
+    background-color: #a29bfe;
+    height: 40%;
+    width: 30%;
+    margin-top: 80rem;
+    margin-left: auto;
+    margin-right: auto; 
+}
+
+#back{
+    position: absolute;
+    height: 90%;
+    width: auto;
+    margin-top: 8rem;
+    margin-left: 5rem;
+    z-index: 1;
+}
+
+#front{
+    position: absolute; 
+    height: 80%;
+    width: auto;
+    margin-top: 16rem;
+    margin-left: 7.5%;
+    z-index: 2;
+}
+
+.name{
+    position: relative;
+    color: blue;
+    height: 25rem;
+    width: 100rem;
+    margin-top: 50%;
+    margin-left: 50%;
 }
